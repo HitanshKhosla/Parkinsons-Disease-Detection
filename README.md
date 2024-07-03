@@ -1,5 +1,5 @@
 # Parkinsons-Disease-Detection
-# README
+
 
 ## SVM-Based Parkinson's Disease Detection
 
